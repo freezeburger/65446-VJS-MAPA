@@ -1,0 +1,11 @@
+@import './base.css';
+
+:root {
+  --mapa-blue: #22647e;
+  --mapa-red: #e04210;
+}
+
+body {
+  background-color: white;
+  color: black;
+}
